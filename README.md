@@ -23,8 +23,7 @@ result, unans = traceroute(target,maxttl=32)
 print(result,unans)
 ```
 # OUTPUT:
-![Uploading image.png…]()
-
+![image](https://github.com/Bhuvaneshwari-2003/EX-7/assets/94828604/c1c80f85-dce9-4c8d-b35b-842a4f76b5d2)
 
 
 
